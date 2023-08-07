@@ -19,6 +19,8 @@
     "svelte": "^3.55.0"
   },
   "dependencies": {
+    "@wagmi/core": "^1.3.8",
+    "ethers": "^6.7.0",
     "sirv-cli": "^2.0.0"
   }
 }
